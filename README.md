@@ -1,10 +1,10 @@
 # House_Price_Prediciton_Model
 
-This is a Python based Machine Learning Model.
+Developed a Python based Machine Learning Model.
 
-In Machine Learning i had used Regression Model in it.
+In Machine Learning i implemented Regression Model in it.
 
-The dataset is taken from www.kaggles.com
+The dataset is verified from www.kaggles.com
 
 The Accuracy of the Model is 96%.
 
